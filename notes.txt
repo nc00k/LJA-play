@@ -1,5 +1,9 @@
 some interesting notes
 
+Adding a new line in here too.
+
 Some more interesting notes that are important!
 
 This is too interesting!
+
+Another new line.
